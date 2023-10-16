@@ -4,7 +4,7 @@
 
 ## Descripción
 
-GolSapiens es un es un blog de futbol.
+GolSapiens es un blog de futbol.
 
 
 ## Antes de usar
