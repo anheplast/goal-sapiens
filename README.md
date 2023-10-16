@@ -1,6 +1,6 @@
 # GolSapiens
 
-![Logo de GolSapiens](https://imgur.com/a/5Dag5Zk)
+![golsapiens-logo](https://github.com/anheplast/goal-sapiens/assets/50648505/1bc7f7ed-d85a-4b7c-9767-f48e76930301)
 
 ## Descripción
 
@@ -14,7 +14,7 @@ Antes de utilizar el proyecto, asegúrate de seguir estos pasos:
 1. Clona el repositorio a tu máquina local utilizando `git clone`.
 
    ```bash
-   git clone URL_DEL_REPOSITORIO
+   git clone https://github.com/anheplast/goal-sapiens.git
 
 2. Instalar next
 3. Instalar node version v18.18.2
