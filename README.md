@@ -18,4 +18,4 @@ Antes de utilizar el proyecto, asegúrate de seguir estos pasos:
 
 2. Instalar next
 3. Instalar node version v18.18.2
-4. Usa npm run dev para inicar al proyecto como desarrollo y que sus cambios se actualizen automaticamente.
+4. Usa `npm run dev` para inicar al proyecto como desarrollo y que sus cambios se actualizen automaticamente.
