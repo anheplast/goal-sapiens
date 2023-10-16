@@ -1,17 +1,21 @@
-# GraphCMS Headless Blog
-### [Live Site](https://nextjs-plum-five-51.vercel.app/)
+# GolSapiens
 
-![GraphCMS Headless Blog](https://i.ibb.co/NmnJnKD/image.png)
+![Logo de GolSapiens](https://imgur.com/a/5Dag5Zk)
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+## Descripción
 
-## Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://resource.jsmasterypro.com/newsletter
+GolSapiens es un es un blog de futbol.
 
-## Introduction
-This is a code repository for the corresponding video tutorial. 
 
-With featured and recent posts, categories. full markdown articles, author information, comments, and much more, this fully responsive CMS Blog App is the best Blog Application that you can currently find on YouTube. And what's best of all is that you and your clients can manage the blog from a dedicated Content Management System.
+## Antes de usar
 
-You'll also learn how to work with GraphCMS. GraphCMS is a headless content management system based on GraphQL technology enabling seamless integration with any application.
+Antes de utilizar el proyecto, asegúrate de seguir estos pasos:
+
+1. Clona el repositorio a tu máquina local utilizando `git clone`.
+
+   ```bash
+   git clone URL_DEL_REPOSITORIO
+
+2. Instalar next
+3. Instalar node version v18.18.2
+4. Usa npm run dev para inicar al proyecto como desarrollo y que sus cambios se actualizen automaticamente.
